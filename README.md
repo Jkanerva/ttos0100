@@ -4,7 +4,11 @@ Ohjelmistosuunnittelu ja testaus
 This is my readme.
 
 ## Alaotsikko
-![](http://www.verkkosivuapteekki.fi/WebRoot/OVA/Shops/JamsanApteekki/MediaGallery/Koira/KOIRANPENNUN_MADOTUS.jpg)
+
+| Koirarotu | kpl |
+|:----------|----:|
+| Suomenpystykorva | 30 |
+| Snautseri | 1200 |
 
 ### Alaotsikko
 [Koira - wikipedia](https://fi.wikipedia.org/wiki/Koira)
