@@ -4,7 +4,7 @@ Ohjelmistosuunnittelu ja testaus
 This is my readme.
 
 ## Alaotsikko
-![](https://fi.wikipedia.org/wiki/Koira#/media/File:Finnish_Spitz_600.jpg)
+![](http://www.verkkosivuapteekki.fi/WebRoot/OVA/Shops/JamsanApteekki/MediaGallery/Koira/KOIRANPENNUN_MADOTUS.jpg)
 
 ### Alaotsikko
 [Koira - wikipedia](https://fi.wikipedia.org/wiki/Koira)
